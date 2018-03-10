@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "120177356333",
+    "firebase_url": "https://ooad-dbdac.firebaseio.com",
+    "project_id": "ooad-dbdac",
+    "storage_bucket": "ooad-dbdac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120177356333:android:182d760941c98334",
+        "android_client_info": {
+          "package_name": "com.example.mohan.ooad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120177356333-8rvgnca0edbkvhg85mvak6tvp3rc5b9n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbEqXtGQw6X1I7wppLXI9Nu97kT57gUUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

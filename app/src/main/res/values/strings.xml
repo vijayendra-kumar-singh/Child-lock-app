@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ooad</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string-array name="user">
+        <item>child</item>
+        <item>parent</item>
+    </string-array>
+
+
+</resources>
